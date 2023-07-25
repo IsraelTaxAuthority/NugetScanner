@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "nuget"
-    directory: "../code-example.csproj"
+    directory: "../NugetScanner.csproj"
     schedule:
       interval: "daily" # You can choose your desired update frequency
 
