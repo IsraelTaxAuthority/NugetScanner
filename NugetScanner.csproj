@@ -19,6 +19,7 @@
     <PackageReference Include="serilog.sinks.file.archive" Version="1.0.3" />
     <PackageReference Include="serilog.sinks.file.gzip" Version="1.0.2" />
     <PackageReference Include="serilog.sinks.http" Version="8.0.0" />
+    <PackageReference Include="serilog.sinks.network" Version="2.0.2.68" />
     <PackageReference Include="Serilog.Sinks.TestCorrelator" Version="3.2.0" />
     <PackageReference Include="Serilog.Sinks.XUnit" Version="3.0.5" />
   </ItemGroup>
